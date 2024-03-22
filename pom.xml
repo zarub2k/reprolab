@@ -16,8 +16,8 @@
     <skipITs>true</skipITs>
     <surefire-plugin.version>3.2.5</surefire-plugin.version>
 
-    <olingo.odata.version>5.0.0</olingo.odata.version>
-    <jackson.version>2.17.0</jackson.version>
+    <olingo.odata.version>4.9.0</olingo.odata.version>
+    <jackson.version>2.13.1</jackson.version>
   </properties>
   <dependencyManagement>
     <dependencies>
